@@ -1,1 +1,1 @@
-MFC中用OpenCV在picture控件中画图；
+MFC涓敤OpenCV鍦╬icture鎺т欢涓敾鍥撅紱
